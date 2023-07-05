@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="214.0" prefWidth="650.0" style="-fx-background-color: #ccffeb;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.javafx.bor_app.Controller">
+   <children>
+      <Label fx:id="songLabel" alignment="CENTER" layoutY="35.0" prefHeight="31.0" prefWidth="650.0" text=" MP3 PLAYER">
+         <font>
+            <Font size="39.0" />
+         </font>
+      </Label>
+      <ProgressBar fx:id="songProgressBar" layoutX="6.0" layoutY="87.0" prefHeight="20.0" prefWidth="643.0" progress="0.0" style="-fx-background-color: black;" />
+      <Button fx:id="playButton" layoutY="175.0" mnemonicParsing="false" onAction="#playMedia" prefHeight="39.0" prefWidth="90.0" text="PLAY" />
+      <Button fx:id="pauseButton" layoutX="90.0" layoutY="175.0" mnemonicParsing="false" onAction="#pauseMedia" prefHeight="39.0" prefWidth="90.0" text="PAUSE" />
+      <Button fx:id="resetButton" layoutX="180.0" layoutY="175.0" mnemonicParsing="false" onAction="#resetMedia" prefHeight="39.0" prefWidth="90.0" text="REST" />
+      <Button fx:id="previousButton" layoutX="270.0" layoutY="175.0" mnemonicParsing="false" onAction="#previousMedia" prefHeight="39.0" prefWidth="90.0" text="PREVIOUS" />
+      <Button fx:id="nextButton" layoutX="360.0" layoutY="175.0" mnemonicParsing="false" onAction="#nextMedia" prefHeight="39.0" prefWidth="90.0" text="NEXT" />
+      <ComboBox fx:id="speedBox" layoutX="450.0" layoutY="175.0" onAction="#changeSpeed" prefHeight="39.0" prefWidth="90.0" promptText="SPEED" />
+      <Slider fx:id="volumeSlider" layoutX="547.0" layoutY="187.0" prefHeight="8.0" prefWidth="105.0" value="50.0" />
+   </children>
+</AnchorPane>
