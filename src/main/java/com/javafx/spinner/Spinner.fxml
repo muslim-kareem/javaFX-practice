@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.javafx.spinner.Controller">
+   <children>
+      <Spinner fx:id="mySpinner" editable="true" layoutX="208.0" layoutY="207.0" />
+      <Label fx:id="myLabel" alignment="CENTER" layoutX="-2.0" layoutY="140.0" prefHeight="17.0" prefWidth="600.0" text="Label" />
+   </children>
+</AnchorPane>

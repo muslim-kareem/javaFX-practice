@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+
+<AnchorPane fx:id="myPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.javafx.colorPicker.Controller">
+   <children>
+      <ColorPicker fx:id="myColorPicker" layoutX="225.0" layoutY="175.0" onAction="#changeColor">
+         <value>
+            <Color red="0.30190059542655945" green="0.5526315569877625" blue="0.36876219511032104" />
+         </value>
+      </ColorPicker>
+   </children>
+</AnchorPane>

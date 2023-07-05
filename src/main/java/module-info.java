@@ -1,0 +1,65 @@
+module com.fx.javafx {
+    requires javafx.controls;
+    requires javafx.fxml;
+    requires javafx.media;
+    requires java.desktop;
+
+
+    opens com.javafx to javafx.fxml;
+
+    exports com.javafx;
+    exports com.javafx.circle_action;
+    opens com.javafx.circle_action to javafx.fxml;
+    exports com.javafx.switch_scene;
+    opens com.javafx.switch_scene to javafx.fxml;
+    exports com.javafx._stage;
+    opens com.javafx._stage to javafx.fxml;
+    exports com.javafx.css_in_javafx;
+    opens com.javafx.css_in_javafx to javafx.fxml;
+    exports com.javafx._scene;
+    opens com.javafx._scene to javafx.fxml;
+    exports com.javafx.login_between_scenes;
+    opens com.javafx.login_between_scenes to javafx.fxml;
+    exports com.javafx.save_names_with_Alert;
+    opens com.javafx.save_names_with_Alert to javafx.fxml;
+    exports com.javafx.logout_button;
+    opens com.javafx.logout_button to javafx.fxml;
+    exports com.javafx.imageView;
+    opens com.javafx.imageView to javafx.fxml;
+    exports com.javafx.textField;
+    opens com.javafx.textField to javafx.fxml;
+    exports com.javafx.checkBox;
+    opens  com.javafx.checkBox to javafx.fxml;
+    exports com.javafx.radioButton;
+    opens  com.javafx.radioButton to javafx.fxml;
+    exports com.javafx.datePicker;
+    opens  com.javafx.datePicker to javafx.fxml;
+    exports com.javafx.colorPicker;
+    opens  com.javafx.colorPicker to javafx.fxml;
+    exports com.javafx.choiceBox;
+    opens  com.javafx.choiceBox to javafx.fxml;
+    exports com.javafx.slider;
+    opens  com.javafx.slider to javafx.fxml;
+    exports com.javafx.progressBar;
+    opens  com.javafx.progressBar to javafx.fxml;
+    exports com.javafx.spinner;
+    opens com.javafx.spinner to javafx.fxml;
+    exports com.javafx.listView;
+    opens com.javafx.listView to javafx.fxml;
+    exports com.javafx.treeView ;
+    opens com.javafx.treeView to javafx.fxml;
+    exports com.javafx.treeView.JPT_File_Example ;
+    opens com.javafx.treeView.JPT_File_Example to javafx.fxml;
+    exports com.javafx.menuItem ;
+    opens com.javafx.menuItem to javafx.fxml;
+    exports com.javafx.keyEvent ;
+    opens com.javafx.keyEvent to javafx.fxml;
+    exports com.javafx.animations;
+    opens com.javafx.animations to javafx.fxml;
+    exports com.javafx.mediaPlayer;
+    opens com.javafx.mediaPlayer to javafx.fxml;
+    exports com.javafx.bor_app;
+    opens com.javafx.bor_app to javafx.fxml;
+    exports com.javafx.getObjectId;
+    opens com.javafx.getObjectId to javafx.fxml;
+}

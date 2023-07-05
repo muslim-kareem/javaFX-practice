@@ -1,0 +1,6 @@
+.progress-bar {
+    -fx-accent: #930898;
+    -fx-background-color: #E6E6E6;
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+}

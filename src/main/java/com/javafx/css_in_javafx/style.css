@@ -1,0 +1,14 @@
+.root {
+   -fx-background-color: #af5f36;
+}
+.label{
+  -fx-font-size: 30;
+  -fx-font-family: "Lucida Grande";
+  -fx-text-fill: #111111;
+    -fx-alignment: center;
+}
+
+#label1{
+  -fx-font-size: 50;
+    -fx-opacity: 1;
+}

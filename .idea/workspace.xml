@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae9ddc6c-ca52-4a3e-87e5-2c9838b207e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/PlaceHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/_scene/SceneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/_stage/Stage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/checkBox/CheckBox.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/checkBox/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/checkBox/Light-of.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/checkBox/Light-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/checkBox/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/choiceBox/ChoiceBox.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/choiceBox/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/choiceBox/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/circle_action/Circle.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/circle_action/CircleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/circle_action/CircleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/colorPicker/ColorPicker.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/colorPicker/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/colorPicker/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/css_in_javafx/CSS.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/css_in_javafx/CSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/css_in_javafx/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/datePicker/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/datePicker/DatePicker.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/datePicker/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/imageView/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/imageView/Funny-Cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/imageView/ImageViewer.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/imageView/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/imageView/Sleepy-Cat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/listView/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/listView/ListView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/listView/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/login_between_scenes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/login_between_scenes/Scene1.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/login_between_scenes/Scene1Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/login_between_scenes/Scene2.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/login_between_scenes/Scene2Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/logout_button/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/logout_button/Logout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/logout_button/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/progressBar/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/progressBar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/progressBar/ProgressBar.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/progressBar/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/radioButton/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/radioButton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/radioButton/RadioButton.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/save_names_with_Alert/NameSaverApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/slider/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/slider/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/slider/Slider.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/spinner/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/spinner/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/spinner/Spinner.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/switch_scene/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/switch_scene/Scene1.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/switch_scene/Scene2.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/switch_scene/SwitchSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/textField/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/textField/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/textField/TextField.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/treeView/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/treeView/JPT_File_Example/FileTreeViewExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/treeView/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javafx/treeView/TreeView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2NxGkH99bzo5aByjsCx7vhY243S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kareem89/IdeaProjects/course-preparation/javaFX/src/main/java/com/javafx/bor_app/mp3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/javafx/bor_app/mp3" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/javafx" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com/javafx" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/javafx/bor_app" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/javafx/animations" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/javafx/mediaPlayer" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/javafx/keyEvent" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/javafx" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.javafx" />
+      <recent name="com.fx.javafx" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.javafx.bootstapfx" />
+      <recent name="com.javafx.bor_app" />
+      <recent name="com.javafx.mediaPlayer" />
+      <recent name="com.javafx.animatioins" />
+      <recent name="com.javafx.keyEvent" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CircleObject">
+    <configuration name="CircleObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javafx.circle_action.CircleObject" />
+      <module name="javaFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafx.circle_action.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdForControlsOnClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javafx.getObjectId.IdForControlsOnClick" />
+      <module name="javaFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafx.getObjectId.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javafx.keyEvent.Main" />
+      <module name="javaFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafx.keyEvent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.javafx.animations.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javafx.animations.Main" />
+      <module name="javaFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafx.animations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.javafx.checkBox.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javafx.checkBox.Main" />
+      <module name="javaFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javafx.checkBox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CircleObject" />
+        <item itemvalue="Application.com.javafx.checkBox.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.javafx.animations.Main" />
+        <item itemvalue="Application.IdForControlsOnClick" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae9ddc6c-ca52-4a3e-87e5-2c9838b207e9" name="Changes" comment="" />
+      <created>1680598460411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680598460411</updated>
+      <workItem from="1680598461409" duration="4389000" />
+      <workItem from="1680603305498" duration="3542000" />
+      <workItem from="1680611923709" duration="18274000" />
+      <workItem from="1680685674558" duration="341000" />
+      <workItem from="1680686025113" duration="1631000" />
+      <workItem from="1680688766035" duration="62000" />
+      <workItem from="1680689160721" duration="278000" />
+      <workItem from="1680689472476" duration="150000" />
+      <workItem from="1680689625721" duration="17098000" />
+      <workItem from="1680764068022" duration="867000" />
+      <workItem from="1680765024874" duration="3905000" />
+      <workItem from="1680773532120" duration="17949000" />
+      <workItem from="1681029534803" duration="9003000" />
+      <workItem from="1681198820279" duration="8110000" />
+      <workItem from="1681207302790" duration="20200000" />
+      <workItem from="1681284462493" duration="19739000" />
+      <workItem from="1681310425012" duration="2022000" />
+      <workItem from="1681312822601" duration="257000" />
+      <workItem from="1681315041122" duration="4789000" />
+      <workItem from="1681377692089" duration="6744000" />
+      <workItem from="1681388789696" duration="5243000" />
+      <workItem from="1681394156705" duration="985000" />
+      <workItem from="1681395472484" duration="4215000" />
+      <workItem from="1681456114398" duration="158000" />
+      <workItem from="1681456278074" duration="7000" />
+      <workItem from="1681461882818" duration="4565000" />
+      <workItem from="1681478612817" duration="7555000" />
+      <workItem from="1681656974173" duration="11083000" />
+      <workItem from="1681984689335" duration="2360000" />
+      <workItem from="1682358258172" duration="627000" />
+      <workItem from="1687161240152" duration="24686000" />
+      <workItem from="1687349425206" duration="12806000" />
+      <workItem from="1687512720477" duration="935000" />
+      <workItem from="1687765416842" duration="59000" />
+      <workItem from="1687943228212" duration="1649000" />
+      <workItem from="1688043225425" duration="17997000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
